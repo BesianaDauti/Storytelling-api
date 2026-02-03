@@ -27,3 +27,12 @@ using a Text-to-Speech service.
 "ApiKey": "YOUR_API_KEY"
 4. Run the application
 5. Open Swagger or the frontend page
+
+## Screenshots
+
+### Swagger API
+![Swagger API](screenshots/swagger.png)
+
+### Frontend Interface
+![Frontend Interface](screenshots/frontend.png)
+
